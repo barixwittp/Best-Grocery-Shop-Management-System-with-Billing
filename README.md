@@ -13,5 +13,5 @@
 <br>
 
 
-<img src="Screenshot 2024-10-12 000113.png" alt="Description of the image" width="500" height="500">
+<img src="Screenshot 2024-10-12 000113.png" alt="Description of the image" width="800" height="500">
 
